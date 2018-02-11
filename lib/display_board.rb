@@ -6,7 +6,7 @@ def display_board
 -----------
    |   |   
 -----------
-   |   |   
+   |   |   l
 end
 
 display_board
